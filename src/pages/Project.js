@@ -1,5 +1,5 @@
-import React from "react";
-import 'bootstrap/dist/css/bootstrap.min.css'
+import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 // Function ProjectCards from Joseph Dewoody
 // function used to display info about each project in the portfolio
@@ -7,21 +7,21 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 function ProjectCards(props) {
   return (
     <div className="card"> 
-        <div className="img-container">
-          <img alt={props.name} src={props.image}/>
-        </div>
-        <div className="content">
-              <p className="project-title" id="card-title">{props.name}</p>
-              <p>
-              <a href={props.github}><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Repository" id="project-icon"/></a> 
-              <a href={props.deploy}><img src="https://img.icons8.com/color/48/000000/monitor.png" alt="Deployed Site" id="project-icon"/></a> 
-              </p>
-              <p id="topics">
-                    ({props.topics})
-                </p>
-        </div>
-      </div>
-    );
+    <div className="img-container">
+      <img alt={props.name} src={props.image}/>
+    </div>
+    <div className="content">
+          <p className="project-title" id="card-title">{props.name}</p>
+          <p>
+          <a href={props.github}><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Repository" id="project-icon"/></a> 
+          <a href={props.deploy}><img src="https://img.icons8.com/color/48/000000/monitor.png" alt="Deployed Site" id="project-icon"/></a> 
+          </p>
+          <p id="topics">
+                ({props.topics})
+            </p>
+    </div>
+  </div>
+  );
 }
-  
-  export default ProjectCards;
+
+export default ProjectCards;
