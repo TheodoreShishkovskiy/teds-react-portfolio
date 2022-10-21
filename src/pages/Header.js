@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import Profile from '../assets/images/profile.jpg'
 import {
   Route,
   Redirect,
@@ -17,7 +16,7 @@ class Header extends Component {
     return (
       <HashRouter>
         <div className='row Header' id='header'>
-          <a href='https://TheodoreShishkovskiy.github.io/teds-react-portfolio/'><img src={Profile} alt="Theodore Shishkovskiy" class="icon" id="profile"/></a>
+          <a href='https://TheodoreShishkovskiy.github.io/teds-react-portfolio/'><img alt="Theodore Shishkovskiy" class="icon" id="profile"/></a>
           <NavBar/>
         </div>
 
