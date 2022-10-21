@@ -25,7 +25,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 **[Deployed Application]()**
 
 Below is a screenshot of the application:
-![teds-react-portfolio]()
+![teds-react-portfolio](https://github.com/TheodoreShishkovskiy/teds-react-portfolio/raw/master/src/assets/images/react-profile.PNG)
   
 ## Contributing
 :octocat: [Theodore Shishkovskiy](https://github.com/TheodoreShishkovskiy)
