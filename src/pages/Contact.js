@@ -31,9 +31,7 @@ function ContactForm() {
 }
 
 const Contact = () => {
-  return (
-    <>
-  )
+ 
 }
 
 export default ContactForm;
