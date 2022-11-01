@@ -53,5 +53,13 @@ export default [
   "github": "https://github.com/TheodoreShishkovskiy/note-taker",
   "deploy": "https://theodore-note-taker.herokuapp.com/",
   "topics": "HTML, CSS, Javascript, Express.js, Node.js, Heroku, Jest, JSON, Insomnia"
+  },
+  {
+  "id": 6,
+  "name": "Bullies 2 The Rescue",
+  "image": Image7,
+  "github": "https://github.com/SupernalDeity/bullies-to-the-rescue",
+  "deploy": "https://gruesome-witch-05502.herokuapp.com/",
+  "topics": "Javascript, Express.js, Node.js, Heroku, React.js, Apollo, GraphQL, Tailwind CSS, MongoDB/Mongoose"
   }
 ]
