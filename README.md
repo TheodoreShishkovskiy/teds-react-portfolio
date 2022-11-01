@@ -22,7 +22,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
-**[Deployed Application]()**
+**[Deployed Application](https://TheodoreShishkovskiy.github.io/teds-react-portfolio)**
 
 Below is a screenshot of the application:
 ![teds-react-portfolio](https://github.com/TheodoreShishkovskiy/teds-react-portfolio/raw/main/src/assets/images/react-profile.png)
